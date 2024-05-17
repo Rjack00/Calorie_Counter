@@ -33,3 +33,4 @@ function addEntry() {
   }
 
   addEntryButton.addEventListener("click", addEntry);
+  
