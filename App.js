@@ -94,7 +94,7 @@ function calculateCalories(e) {
     }
   
     budgetNumberInput.value = '';
-    output.innerHTML = '';
+    output.innerText = '';
     output.classList.add('hide');
   }
   
